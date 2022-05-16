@@ -2,7 +2,7 @@ body {
   font-family: Playfair Display', serif; 
   /*font changed*/
   color: #172b4d;
-  background-color: #f08080; 
+  background-color: #faebd7;
   /*Background changed*/
   display: flex;
   align-items: start;
@@ -51,7 +51,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #deb887;
 }
 
 
