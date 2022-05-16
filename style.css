@@ -1,7 +1,9 @@
 body {
-  font-family: Playfair Display', serif; /*font changed*/
+  font-family: Playfair Display', serif; 
+  /*font changed*/
   color: #172b4d;
-  background-color: #f08080; /*Background changed*/
+  background-color: #f08080; 
+  /*Background changed*/
   display: flex;
   align-items: start;
 }
