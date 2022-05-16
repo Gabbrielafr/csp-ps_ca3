@@ -1,7 +1,7 @@
 body {
-  font-family: sans-serif;
+  font-family: Playfair Display', serif; /*font changed*/
   color: #172b4d;
-  background-color: #f08080;
+  background-color: #f08080; /*Background changed*/
   display: flex;
   align-items: start;
 }
